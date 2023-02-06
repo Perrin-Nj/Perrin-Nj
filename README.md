@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perrin-Nj
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning IOS and android development
+- 🌱 I’m currently working on flutter projects
 - 💞️ I’m looking to collaborate on everything
 
 <!---
